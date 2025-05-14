@@ -1,5 +1,5 @@
-#create database sales_product_db ;
-#use sales_product_db;
+--create database sales_product_db ;
+--use sales_product_db;
 
 create table sales (
 sale_id int primary key ,
